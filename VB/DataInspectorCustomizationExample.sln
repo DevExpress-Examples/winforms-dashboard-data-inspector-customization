@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataInspectorCustomizationExample", "DataInspectorCustomizationExample.vbproj", "{0332AA90-D851-432E-BC7E-1E5B40DCEDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0332AA90-D851-432E-BC7E-1E5B40DCEDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0332AA90-D851-432E-BC7E-1E5B40DCEDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0332AA90-D851-432E-BC7E-1E5B40DCEDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0332AA90-D851-432E-BC7E-1E5B40DCEDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FECF1EDE-1B29-4EE6-9AFE-67C41ABDAB17}
+	EndGlobalSection
+EndGlobal
