@@ -9,7 +9,7 @@ This example illustrates how to handle the DataInspectorFormLoad and DataInspect
 
 ![](/images/screenshot.png)
 
-API in this example:
+## API
 
 * [DashboardViewer.DataInspectorFormLoad](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DataInspectorFormLoad) event
 * [DashboardViewer.DataInspectorFormClosing](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DataInspectorFormClosing) event
