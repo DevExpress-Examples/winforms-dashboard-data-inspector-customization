@@ -1,9 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
+
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
 <!-- default file list end -->
 
-# How to Customize the Data Inspector Dialog
+# Dashboard for WinForms - How to Customize the Data Inspector Dialog
 
 This example illustrates how to handle the DataInspectorFormLoad and DataInspectorFormClosing events to get access to the Grid controls in the [Data Inspector](https://docs.devexpress.com/Dashboard/401194) window and change the grid settings.
 
