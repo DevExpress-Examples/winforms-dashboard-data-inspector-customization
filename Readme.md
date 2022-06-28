@@ -20,18 +20,18 @@ This example illustrates how to handle the `DataInspectorFormLoad` and `DataInsp
 
 ## API
 
-* The [DashboardViewer.DataInspectorFormLoad](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DataInspectorFormLoad) event
-* The [DashboardViewer.DataInspectorFormClosing](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DataInspectorFormClosing) event
-* The [DataInspectorFormLoadEventArgs.AggregatedGrid](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DataInspectorFormLoadEventArgs.AggregatedGrid) property
-* The [DataInspectorFormClosingEventArgs.AggregatedGrid](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DataInspectorFormClosingEventArgs.AggregatedGrid) property
-* The [DataInspectorFormLoadEventArgs.RawGrid](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DataInspectorFormLoadEventArgs.RawGrid) property
-* The [DataInspectorFormClosingEventArgs.RawGrid](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DataInspectorFormClosingEventArgs.RawGrid) property
-* The [GridView.OptionsCustomization](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.OptionsCustomization) property
-* The [GridView.OptionsView](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.OptionsView) property
-* The [GridView.OptionsBehavior](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.OptionsBehavior) property
-* The [GridView.SaveLayoutToStream](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.BaseView.SaveLayoutToStream(System.IO.Stream)) method
-* The [GridView.RestoreLayoutFromStream](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.BaseView.RestoreLayoutFromStream(System.IO.Stream)) method
-* 
+* The [DashboardViewer.DataInspectorFormLoad](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DataInspectorFormLoad) event.
+* The [DashboardViewer.DataInspectorFormClosing](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.DataInspectorFormClosing) event.
+* The [DataInspectorFormLoadEventArgs.AggregatedGrid](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DataInspectorFormLoadEventArgs.AggregatedGrid) property.
+* The [DataInspectorFormClosingEventArgs.AggregatedGrid](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DataInspectorFormClosingEventArgs.AggregatedGrid) property.
+* The [DataInspectorFormLoadEventArgs.RawGrid](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DataInspectorFormLoadEventArgs.RawGrid) property.
+* The [DataInspectorFormClosingEventArgs.RawGrid](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DataInspectorFormClosingEventArgs.RawGrid) property.
+* The [GridView.OptionsCustomization](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.OptionsCustomization) property.
+* The [GridView.OptionsView](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.OptionsView) property.
+* The [GridView.OptionsBehavior](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.OptionsBehavior) property.
+* The [GridView.SaveLayoutToStream](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.BaseView.SaveLayoutToStream(System.IO.Stream)) method.
+* The [GridView.RestoreLayoutFromStream](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.BaseView.RestoreLayoutFromStream(System.IO.Stream)) method.
+
 ## More Examples
 
 * [Dashboard for WinForms - How to Get and Process the Dashboard Item's Client Data](https://github.com/DevExpress-Examples/how-to-obtain-a-dashboard-items-client-data-in-the-winforms-viewer-t140553)
